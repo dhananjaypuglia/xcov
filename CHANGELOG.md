@@ -1,8 +1,5 @@
 ## Changelog
 
-###v.1.4.3
-* Fixed target coverage calculation.
-
 ### v.1.4.2
 * Fixed issue parsing `DISABLE_COVERALLS` option (by **chrisballinger**).
 
